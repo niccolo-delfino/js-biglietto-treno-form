@@ -32,6 +32,14 @@ h4{
   margin-top: 30px;
 }
 
+.hidden{
+  opacity: 0;
+}
+
+.show{
+  opacity: 1;
+}
+
 /* SEZIONE ALTA */
 .up .calcolo{
   width: 1000px;
