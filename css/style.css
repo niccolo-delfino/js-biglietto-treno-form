@@ -71,6 +71,10 @@ h4{
   font-weight: bold;
 }
 
+.btn:hover{
+  cursor: pointer;
+}
+
 input::placeholder{
   text-align: center;
 }
@@ -103,7 +107,7 @@ select{
 }
 
 .down .passeggero{
-  margin-right: 25px;
+  margin-right: 150px;
   padding-top: 25px;
 }
 
